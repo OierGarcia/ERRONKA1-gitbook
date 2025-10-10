@@ -7,7 +7,7 @@
   * [🧩 Datu Base → Adibideak](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
   * [🧩 APlak – Jitsi Zerbitzua Ubuntu](zerbitzuak/apiak.md)
-  * [Konfigurazioa](zerbitzuak/konfigurazioa.md)
+  * [🧱 Konfigurazioa – Windows Server Zerbitzuak](zerbitzuak/konfigurazioa.md)
   * [Segurtasuna](zerbitzuak/segurtasuna.md)
 * [Sistemak](sistemak/README.md)
   * [Instalazioa](sistemak/instalazioa.md)
