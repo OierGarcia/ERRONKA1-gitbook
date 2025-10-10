@@ -1,7 +1,5 @@
 # 🧱 Konfigurazioa – Windows Server Zerbitzuak
 
-####
-
 **Helburua:**\
 Puñeteros S.L.-ren sare eta domeinu zerbitzuak Windows Server-en bidez zentralizatzea: DHCP, DNS eta Active Directory.
 
