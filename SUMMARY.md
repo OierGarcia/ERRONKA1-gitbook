@@ -6,7 +6,7 @@
   * [⚙️ Datu Base → Eragiketak](datubase/eragiketak.md)
   * [🧩 Datu Base → Adibideak](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
-  * [APIak](zerbitzuak/apiak.md)
+  * [🧩 APlak – Jitsi Zerbitzua Ubuntu](zerbitzuak/apiak.md)
   * [Konfigurazioa](zerbitzuak/konfigurazioa.md)
   * [Segurtasuna](zerbitzuak/segurtasuna.md)
 * [Sistemak](sistemak/README.md)
