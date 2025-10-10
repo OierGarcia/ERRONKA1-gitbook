@@ -8,7 +8,7 @@
 * [Zerbitzuak](zerbitzuak/README.md)
   * [🧩 APlak – Jitsi Zerbitzua Ubuntu](zerbitzuak/apiak.md)
   * [🧱 Konfigurazioa – Windows Server Zerbitzuak](zerbitzuak/konfigurazioa.md)
-  * [Segurtasuna](zerbitzuak/segurtasuna.md)
+  * [🔒 Segurtasuna – Babesa eta Berreskurapena](zerbitzuak/segurtasuna.md)
 * [Sistemak](sistemak/README.md)
   * [Instalazioa](sistemak/instalazioa.md)
   * [Mantenua](sistemak/mantenua.md)
