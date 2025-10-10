@@ -11,5 +11,5 @@
   * [🔒 Segurtasuna – Babesa eta Berreskurapena](zerbitzuak/segurtasuna.md)
 * [Sistemak](sistemak/README.md)
   * [⚙️ Instalazioa – Sistema nagusien konfigurazioa](sistemak/instalazioa.md)
-  * [Mantenua](sistemak/mantenua.md)
+  * [🔧 Mantenua – Sistema eta inprimagailuen kudeaketa](sistemak/mantenua.md)
   * [Monitorizazioa](sistemak/monitorizazioa.md)
