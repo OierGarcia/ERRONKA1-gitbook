@@ -3,7 +3,7 @@
 * [Sarrera](README.md)
 * [Datubase](datubase/README.md)
   * [🧱 Datu Base](datubase/diseinua.md)
-  * [Eragiketak](datubase/eragiketak.md)
+  * [⚙️ Datu Base](datubase/eragiketak.md)
   * [Adibideak](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
   * [APIak](zerbitzuak/apiak.md)
