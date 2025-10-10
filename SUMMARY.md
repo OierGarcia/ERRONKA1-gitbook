@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sarrera](README.md)
+* [🧭 Sarrera](README.md)
 * [Datubase](datubase/README.md)
   * [🧱 Datu Base → Diseinua](datubase/diseinua.md)
   * [⚙️ Datu Base → Eragiketak](datubase/eragiketak.md)
