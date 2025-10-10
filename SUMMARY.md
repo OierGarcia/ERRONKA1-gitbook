@@ -12,4 +12,4 @@
 * [Sistemak](sistemak/README.md)
   * [⚙️ Instalazioa – Sistema nagusien konfigurazioa](sistemak/instalazioa.md)
   * [🔧 Mantenua – Sistema eta inprimagailuen kudeaketa](sistemak/mantenua.md)
-  * [Monitorizazioa](sistemak/monitorizazioa.md)
+  * [🖨️ Monitorizazioa  Inprimagailuak Windows eta Ubuntu artean](sistemak/monitorizazioa.md)
