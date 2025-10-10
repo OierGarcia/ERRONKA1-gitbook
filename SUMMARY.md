@@ -4,7 +4,7 @@
 * [Datubase](datubase/README.md)
   * [🧱 Datu Base](datubase/diseinua.md)
   * [⚙️ Datu Base](datubase/eragiketak.md)
-  * [Adibideak](datubase/adibideak.md)
+  * [🧩 Datu Base](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
   * [APIak](zerbitzuak/apiak.md)
   * [Konfigurazioa](zerbitzuak/konfigurazioa.md)
