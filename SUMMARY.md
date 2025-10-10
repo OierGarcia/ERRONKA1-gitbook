@@ -2,7 +2,7 @@
 
 * [Sarrera](README.md)
 * [Datubase](datubase/README.md)
-  * [🧱 Datu Base](datubase/diseinua.md)
+  * [🧱 Datu Base → Diseinua](datubase/diseinua.md)
   * [⚙️ Datu Base](datubase/eragiketak.md)
   * [🧩 Datu Base](datubase/adibideak.md)
 * [Zerbitzuak](zerbitzuak/README.md)
