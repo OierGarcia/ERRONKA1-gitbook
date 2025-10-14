@@ -1,10 +1,10 @@
 # 🧩 APlak – Jitsi Zerbitzua Ubuntu
 
 **Helburua:**\
-Bideo-konferentzia plataforma propioa instalatu eta konfiguratu, _jitsi.puneta.eus_ domeinuaren bidez erabilgarri egon dadin.
+Bideo-konferentzia plataforma propioa instalatu eta konfiguratu, **jitsi.puneta.eus** domeinuaren bidez erabilgarri egon dadin.
 
 **Instalazio prozesua:**\
-Ubuntu 24.04 zerbitzarian Jitsi Meet instalatu da urrats hauen bidez:
+Ubuntu 24.04 zerbitzarian **Jitsi Meet** instalatu da urrats hauen bidez:
 
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -33,10 +33,9 @@ sudo apt update
 sudo apt install -y jitsi-meet
 ```
 
-Instalatzaileak galdetutakoan, domeinua ezarri da:
-
-> `jitsi.puneta.eus`\
-> eta hasieran _self-signed certificate_ bat erabili da.
+Instalatzaileak galdetutakoan, domeinua ezarri da:\
+`jitsi.puneta.eus`\
+eta hasieran **self-signed certificate** bat erabili da.
 
 Ondoren, zerbitzuen egoera egiaztatu da:
 
@@ -52,5 +51,8 @@ sudo systemctl status jitsi-videobridge2
 sudo /usr/share/jitsi-meet/scripts/install-letsencrypt-cert.sh
 ```
 
+**DNS konfigurazioa (Windows Server):**\
+Windows Server zerbitzarian, **DNS** konfiguratu da, **192.168.71.2** IP helbidea zuzenean bilatu beharrean, **jitsi.puneta.eus** domeinua erabil dadin.
+
 **Emaitza:**\
-Zerbitzua behar bezala dabil eta [_https://jitsi.puneta.eus_](https://jitsi.puneta.eus) helbidean erabil daiteke, barruko eta kanpoko sarerako (VPN bidez).
+Zerbitzua behar bezala dabil eta [**https://jitsi.puneta.eus**](https://jitsi.puneta.eus) helbidean erabil daiteke, barruko eta kanpoko sarerako (VPN bidez).
