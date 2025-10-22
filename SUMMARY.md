@@ -13,6 +13,7 @@
   * [⚙️ Instalazioa – Sistema nagusien konfigurazioa](sistemak/instalazioa.md)
   * [🔧 Mantenua – Sistema eta inprimagailuen kudeaketa](sistemak/mantenua.md)
   * [🖨️ Monitorizazioa  Inprimagailuak Windows eta Ubuntu artean](sistemak/monitorizazioa.md)
+  * [Instalatu ditugun zerbitzuak](sistemak/instalatu-ditugun-zerbitzuak.md)
 * [Kontingentzia Plana](kontingentzia-plana.md)
 * [DOKUMENTAZIOA](dokumentazioa.md)
 * [Lizentziak](lizentziak.md)
