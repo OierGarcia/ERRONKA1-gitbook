@@ -15,3 +15,4 @@
   * [🖨️ Monitorizazioa  Inprimagailuak Windows eta Ubuntu artean](sistemak/monitorizazioa.md)
 * [Kontingentzia Plana](kontingentzia-plana.md)
 * [DOKUMENTAZIOA](dokumentazioa.md)
+* [Lizentziak](lizentziak.md)
