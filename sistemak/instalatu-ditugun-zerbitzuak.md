@@ -7,7 +7,7 @@ icon: computer-mouse
 \
 
 
-Windows server 2019/1: Erabiltzaile/taldeak eta inprimagailua egiteko erabili dugu
+Windows server 2019/1: Erabiltzaile/taldeak eta inprimagailua egiteko erabili dugu baita gpo-ak
 
 Windows server 2019/2:Erabili dugu jitsi eta web orriarako dns sortzeko
 
